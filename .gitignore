@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+data/raw/*.json
+data/_old_raw/
+data/*.log
+data/**/llm_responses.jsonl
+report/
+*.bat
+GITHUB_SETUP.md

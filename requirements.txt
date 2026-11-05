@@ -1,0 +1,7 @@
+requests>=2.31
+pandas>=2.0
+spacy>=3.7
+jupyter
+# optional hosted backends
+# anthropic>=0.40
+# openai>=1.40
